@@ -1,4 +1,33 @@
 @import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+    --breakpoint-xs: 400px;
+    --breakpoint-sm: 640px;
+}
+
+
+
+/* .dhaka{
+    border: 2px solid #ff3d0036;
+    border-radius: 13px;
+    box-shadow: 4px 7px 7px 0 #00000042;
+    cursor: pointer;
+    transition: 400ms;
+}
+.dhaka:hover{
+    filter: grayscale(1);
+    transform: scale(1.03);
+} */
+
+
+
+
+
+
+
+
+
 body{
     font-family: "Nunito Sans", sans-serif;
 }
