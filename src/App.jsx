@@ -2,6 +2,7 @@ import './App.css'
 import About from './component/About'
 import Breadcrumb from './component/Breadcrumb'
 import Division from './component/Division'
+import Footer from './component/Footer'
 
 import Home from './pages/Home'
 
@@ -14,6 +15,7 @@ function App() {
       <Breadcrumb/>
       <About/>
       <Division/>
+      <Footer/>
     </>
   )
 }
