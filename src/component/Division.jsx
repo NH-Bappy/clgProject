@@ -13,15 +13,15 @@ import mymensingh from '../image/mymensingh.jpg';
 import bazar from '../image/bazar.jpg';
 
 const divisions = [
-  { title: 'Dhaka', src: dhaka },
-  { title: 'Chittagong', src: chittagong },
-  { title: 'Rangpur', src: rangpur },
-  { title: 'Sylhet', src: sylhet },
-  { title: 'Barishal', src: barishal },
-  { title: 'Khulna', src: khulna },
-  { title: 'Rajshahi', src: rajshahi },
-  { title: 'Mymensingh', src: mymensingh },
-  { title: "Cox's Bazar", src: bazar },
+  { title: 'ঢাকা', src: dhaka },
+  { title: 'চট্টগ্রাম', src: chittagong },
+  { title: 'রংপুর', src: rangpur },
+  { title: 'সিলেট', src: sylhet },
+  { title: 'বরিশাল', src: barishal },
+  { title: 'খুলনা', src: khulna },
+  { title: 'রাজশাহী', src: rajshahi },
+  { title: 'ময়মনসিংহ', src: mymensingh },
+  { title: "কক্সবাজার ", src: bazar },
 ];
 
 const Division = () => {
@@ -30,7 +30,7 @@ const Division = () => {
       <Container>
         <div className="w-full bg-gray-50 rounded-xl shadow-md">
           <h2 className='text-4xl font-bold py-3 flex justify-center border-b-[0.5px] border-b-white'>
-            Division
+            বিভাগ
           </h2>
           <div className="py-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-12 justify-items-center">
             {divisions.map((division, index) => (

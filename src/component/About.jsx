@@ -6,14 +6,14 @@ const About = () => {
     <div className='py-10'>
       <Container>
         <div className="py-8">
-          <h2 className='text-3xl font-bold py-1.5'>Bangladesh</h2>
-        <p className='w-90 text-base border-b-2 font-sans text-emerald-600 font-medium border-rose-700'>Experiential journeys will make you a storyteller</p>
+          <h2 className='text-3xl font-bold py-1.5'>বাংলাদেশ</h2>
+        <p className='w-90 text-base border-b-2 font-sans text-emerald-600 font-medium border-rose-700'>অভিজ্ঞতার পথে চলার মতো হলে, তুমি হয়ে উঠবে হৃদয়ের কাহিনী বলার যাদুকর</p>
         </div>
 
         <div className="w-full bg-green-50 py-4 ">
-        <h2 className='text-xl font-bold py-2'>About Bangladesh</h2>
-        <p className='text-sm font-sans text-gray-700 capitalize
-font-medium'>Bangladesh is divided into 64 districts, each rich in culture, history, and natural beauty. The capital, Dhaka, is a bustling hub of politics, commerce, and education. Chattogram (formerly Chittagong), the second-largest city, is a major seaport and commercial center. Sylhet, known for its tea gardens and natural landscapes, is a gateway to the northeastern hills. Rajshahi is famous for mangoes, silk, and its vibrant academic environment. Khulna, near the Sundarbans, is an important industrial area. Barisal, with its riverine beauty, is known for rice and guava production. Rangpur and Mymensingh are agricultural heartlands, while districts like Cox’s Bazar and Bandarban in the southeast are famous for their scenic beaches and tribal heritage. Each district contributes uniquely to the nation’s economy, culture, and identity, reflecting the diversity and resilience of Bangladesh.</p>
+        <h2 className='text-xl font-bold py-2'>বাংলাদেশের গল্প</h2>
+        <p className='text-base text-gray-700 capitalize
+font-medium'>বাংলাদেশের চৌষট্টি জেলা যেন একেকটি জীবন্ত গল্প, একেকটি ছন্দময় কাব্য। রাজধানী ঢাকা শহর জ্ঞানের আলো, বাণিজ্যের ব্যস্ততা আর রাজনীতির কেন্দ্রস্থল। চট্টগ্রাম বিশাল সমুদ্রবন্দর, পাহাড় আর পণ্যবাহী জাহাজের মেলবন্ধন। সিলেট সবুজে মোড়া, চা-বাগান আর ঝরনার সুরে স্নিগ্ধ; রাজশাহী বিখ্যাত আম আর রেশমে, আর তার শিক্ষা ও ইতিহাসও সমান গর্বের। খুলনা শিল্পনগর, যার পাশেই আছে রহস্যময় সুন্দরবন। বরিশাল নদীবিধৌত শহর, পেয়ারার হাসি আর নৌকার ছন্দে মুখরিত। রংপুর আর ময়মনসিংহ কৃষকের ঘাম আর মাঠের শস্যে সমৃদ্ধ। দক্ষিণ-পূর্বের কক্সবাজার বিশ্বের দীর্ঘতম সমুদ্রসৈকতের গর্ব, আর বান্দরবান-খাগড়াছড়ি-পাহাড়ি জেলারাও সংস্কৃতি আর প্রকৃতির অনন্য রূপ নিয়ে দাঁড়িয়ে। প্রতিটি জেলা আলাদা, কিন্তু একসূত্রে গাঁথা—বাংলাদেশের সংস্কৃতি, প্রকৃতি আর প্রাণশক্তির অপরূপ প্রতিচ্ছবি।</p>
       </div>
       </Container>
     </div>
